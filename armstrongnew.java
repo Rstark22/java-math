@@ -5,6 +5,7 @@ public class armstrongnew {
         int sum=0;
 
         while(number>0){
+            // hi its riya 
             int rem=number%10;
             sum=sum+(rem*rem*rem);
             number=number/10;
